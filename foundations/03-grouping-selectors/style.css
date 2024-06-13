@@ -1,0 +1,15 @@
+.pick-me,
+.no-pick-me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.pick-me {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight:700;
+}
+
+.no-pick-me {
+    background-color: hsl(56, 100%, 51%);
+}
